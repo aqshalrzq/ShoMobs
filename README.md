@@ -8,8 +8,8 @@ This app was developed with Flutter with a case study of creating dashboard disp
 
 ### ShoMobs - Technology
 There are several packages that I used while developing the ShoMobs app. All of them are available on the pub.dev website with the following details:
-[google_fonts](https://pub.dev/packages/google_fonts)
-[simple_animation](https://pub.dev/packages/simple_animations)
+- [google_fonts](https://pub.dev/packages/google_fonts)
+- [simple_animation](https://pub.dev/packages/simple_animations)
 
 ### ShoMobs - About
 The ShoMobs project directory consists of 3 packages and 1 main.dart file as a starting point. Every package that I make I make a supporting component when creating a dashboard view with the details of the package I made:
